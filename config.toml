@@ -1,0 +1,75 @@
+baseurl = "https://secureiqlab.github.io/"
+languageCode = "en-us"
+title = "SecureIQLab"
+theme = "airspace-hugo"
+googleAnalytics = ""
+
+# The site's parameters
+[params]
+  home = "Home"
+  
+  [menu]
+
+    [[menu.header]]
+      weight = 2
+      name = "Why Us"
+      url = "whyus"
+    [[menu.header]]
+      weight = 3
+      name = "Services"
+      url = "services"
+    [[menu.header]]
+      weight = 4
+      name = "Contact"
+      url = "contact"
+
+    [[menu.footer]]
+      weight = 1
+      name = "About us"
+      url = "aboutus"
+    [[menu.footer]]
+      weight = 2
+      name = "Contact us"
+      url = "contact"
+
+  [params.slider]
+    enable = true
+    title = "Cybersecurity Testing Meets Enterprise Reality"
+    subtitle = "Bridging the ‘GAP’"
+    bgImage = "img/slider-bg.png"
+
+  [params.wrapper]
+    enable = true
+    image = "img/wrapper-img.png"
+    title = "About Us"
+    italic = "Bridging the \"CYBER-GAP\" For enterprises – Reduce Operational Risk Posture"
+    paragraph = "SecureIQLab is a US-based independent, third-party cybersecurity solution validation and advisory service provider. SecureIQLab specializes in assessing and validating a multitude of cyber threat-facing cybersecurity solutions that aim to defend enterprise IT systems and applications from attacks through prevention, detection and effective response."
+    [params.wrapper.button]
+      caption = "More"
+      url = "aboutus"
+    
+  [params.feature]
+    enable = true
+    title = "WE BELIEVE IN ‘VALIDATING’ WHAT MATTERS"
+    bgImage = "img/feature-bg.jpg"
+    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    [params.feature.button]
+      caption = "View Works"
+      url = "works"
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Ready to start your next project with us? That’s great! Send us an email and we will get back to you as soon as possible!"
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "SecureIQab Headquarters"
+      address = "801 Barton Springs Road, 9th Floor"
+      email = "info@SecureIQab.com"
+    [params.contact.gmaps]
+      title = "We Also Count in Google Maps"
