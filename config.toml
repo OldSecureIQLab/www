@@ -34,8 +34,9 @@ googleAnalytics = ""
 
   [params.slider]
     enable = true
-    title = "Cybersecurity Testing Meets Enterprise Reality"
-    subtitle = "Bridging the ‘GAP’"
+    title1 = "CyberSecurity solution validation"
+    subtitle1 = "Bridging the 'CYBER-GAP' for Enterprises"
+    title2 = "Meets 'Your' Operational Reality"
     bgImage = "img/slider-bg.png"
 
   [params.wrapper]
@@ -54,8 +55,8 @@ googleAnalytics = ""
     bgImage = "img/feature-bg.jpg"
     content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
     [params.feature.button]
-      caption = "View Works"
-      url = "works"
+      caption = "View Our Methodology"
+      url = "methodology"
 
   [params.contact]
     enable = true
@@ -70,6 +71,6 @@ googleAnalytics = ""
     [params.contact.box]
       title = "SecureIQab Headquarters"
       address = "801 Barton Springs Road, 9th Floor"
-      email = "info@SecureIQab.com"
+      email = "info@SecureIQlab.com"
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"
