@@ -146,9 +146,9 @@ body {
   }
   
   header .navbar-brand {
-    padding-top: 15px;
     font-size: 25px;
     font-weight: bold;
+    padding: 0px;
   }
   
   header .navbar-default {
