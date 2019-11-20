@@ -2,7 +2,7 @@
 www.SecureIQLab.com
 
 
-# Time Log
+### Time Log
 
 | Date       | Times               | Duration  |
 | ---------- | ------------------- | --------- |
@@ -13,19 +13,6 @@ www.SecureIQLab.com
 | 11/10/2019 | 7:00 PM - 10:00 PM  | 3         |
 | 11/19/2019 | 9:00 PM - 9:30 PM   | 0.5       |
 | **TOTAL**  |                     | **12**    |
-
-
-11/1/2019
-    11:30AM - 12:30 PM
-    2:30 PM - 3:30 PM
-11/1/2019
-    9:00 PM - 11:00 PM
-11/7/2019
-    8:00 PM - 12:30 AM
-11/10/2019
-    7:00 PM - 10:00 PM
-11/19/2019
-    9:00 PM - 9:30 PM
 
 ### Home Page
     Changed View Works -> View Our Methodology
